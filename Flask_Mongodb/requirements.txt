@@ -1,0 +1,2 @@
+the only additional library that needs to be installed is:
+marshmallow (Release v3.5.0)
